@@ -1,0 +1,21 @@
+Product Id,Product Handle,Product Title,Product Status,Product Thumbnail,Product Sales Channel 1,Variant Id
+prod_01KMSX51KQ0VX398Q8A72BBGY4,t-shirt,Medusa T-Shirt,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/tee-black-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51NX15KMHED2K2WHYRB4
+prod_01KMSX51KQ0VX398Q8A72BBGY4,t-shirt,Medusa T-Shirt,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/tee-black-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51NX51D41TKMSYX9QCJ6
+prod_01KMSX51KQ0VX398Q8A72BBGY4,t-shirt,Medusa T-Shirt,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/tee-black-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51NXPDYMPM7E7V9MCC4Z
+prod_01KMSX51KQ0VX398Q8A72BBGY4,t-shirt,Medusa T-Shirt,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/tee-black-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51NXRV8XQWWWQV4BPYJG
+prod_01KMSX51KQ0VX398Q8A72BBGY4,t-shirt,Medusa T-Shirt,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/tee-black-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51NXT5HG2AGYEYVR7MEV
+prod_01KMSX51KQ0VX398Q8A72BBGY4,t-shirt,Medusa T-Shirt,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/tee-black-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51NYBAD793S03E0QBX62
+prod_01KMSX51KQ0VX398Q8A72BBGY4,t-shirt,Medusa T-Shirt,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/tee-black-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51NYR966022SQ2MH3T7B
+prod_01KMSX51KQ0VX398Q8A72BBGY4,t-shirt,Medusa T-Shirt,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/tee-black-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51NYYBWW9WXD3FR9ECF4
+prod_01KMSX51KQ40DF53PE86GXEBV2,sweatpants,Medusa Sweatpants,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/sweatpants-gray-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51NZ0ZGYQ7979NDZ80BM
+prod_01KMSX51KQ40DF53PE86GXEBV2,sweatpants,Medusa Sweatpants,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/sweatpants-gray-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51NZ11YKFQY40NJQ5638
+prod_01KMSX51KQ40DF53PE86GXEBV2,sweatpants,Medusa Sweatpants,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/sweatpants-gray-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51NZT9A9S7YTJ01PWJ3X
+prod_01KMSX51KQ40DF53PE86GXEBV2,sweatpants,Medusa Sweatpants,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/sweatpants-gray-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51NZXYPSZGSWGCY4T15Z
+prod_01KMSX51KQVPF5H0FZDYW5DVTJ,shorts,Medusa Shorts,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/shorts-vintage-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51NZS9B25361YE12414J
+prod_01KMSX51KQVPF5H0FZDYW5DVTJ,shorts,Medusa Shorts,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/shorts-vintage-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51NZZKRTSD000W35SFY9
+prod_01KMSX51KQVPF5H0FZDYW5DVTJ,shorts,Medusa Shorts,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/shorts-vintage-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51P01NPCAE2MYBMXRY27
+prod_01KMSX51KQVPF5H0FZDYW5DVTJ,shorts,Medusa Shorts,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/shorts-vintage-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51P0C7ZB7XQFRDNBDZF8
+prod_01KMSX51KQXD1DP3NJ3TE4B0W7,sweatshirt,Medusa Sweatshirt,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/sweatshirt-vintage-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51NY0YNKC5JXD33Q2S7Y
+prod_01KMSX51KQXD1DP3NJ3TE4B0W7,sweatshirt,Medusa Sweatshirt,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/sweatshirt-vintage-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51NY4ENC64QB74V16XHM
+prod_01KMSX51KQXD1DP3NJ3TE4B0W7,sweatshirt,Medusa Sweatshirt,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/sweatshirt-vintage-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51NYTHP8XZHK5Q2B7GKH
+prod_01KMSX51KQXD1DP3NJ3TE4B0W7,sweatshirt,Medusa Sweatshirt,published,https://medusa-public-images.s3.eu-west-1.amazonaws.com/sweatshirt-vintage-front.png,sc_01KMSX4VC2VPF6HGQWHM8JWFTQ,variant_01KMSX51NZEZDWZMTAQSCH0DST
