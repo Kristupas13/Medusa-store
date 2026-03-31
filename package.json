@@ -16,9 +16,10 @@
     "build": "medusa build",
     "seed": "medusa exec ./src/scripts/seed.ts",
     "start": "medusa start",
-    "start:migrate": "medusa migrations run && medusa start",
+    "start:migrate": "medusa db:migrate && medusa start",
     "dev": "medusa develop",
-    "migrate": "medusa migrations run",
+    "migrate": "medusa db:migrate",
+    "db:setup": "medusa db:setup",
     "test:integration:http": "TEST_TYPE=integration:http NODE_OPTIONS=--experimental-vm-modules jest --silent=false --runInBand --forceExit",
     "test:integration:modules": "TEST_TYPE=integration:modules NODE_OPTIONS=--experimental-vm-modules jest --silent=false --runInBand --forceExit",
     "test:unit": "TEST_TYPE=unit NODE_OPTIONS=--experimental-vm-modules jest --silent --runInBand --forceExit"
